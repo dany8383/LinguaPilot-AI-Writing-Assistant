@@ -19,8 +19,8 @@ Download the latest versions from the **Releases** section on the right:
 ## 🪟 Windows User Guide (Stable)
 
 ### Installation
-1. Download `LinguaPilotAI-Win_V2.1.zip` and extract it.
-2. Run `LinguaPilotAI_Setup_v2.1.exe`.
+1. Download `LinguaPilotAI-Win_V2.2.zip` and extract it.
+2. Run `LinguaPilotAI_Setup_v2.2.exe`.
 3. If Windows SmartScreen appears, click **More info** > **Run anyway**. (The app is 100% safe; this warning occurs because the software is new).
 
 ### Quick Start
