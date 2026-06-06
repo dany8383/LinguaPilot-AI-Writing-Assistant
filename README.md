@@ -11,7 +11,7 @@ LinguaPilot AI helps you correct, improve, rewrite, translate, and understand se
 
 ## 💾 Downloads
 Download the latest versions from the **Releases** section on the right:
-* 🪟 **Windows:** [LinguaPilotAI-Win_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.1/LinguaPilotAI-Win_V2.1.zip) (Stable)
+* 🪟 **Windows:** [LinguaPilotAI-Win_V2.2.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.1/LinguaPilotAI-Win_V2.1.zip) (Stable)
 * 💻 **macOS:** [LinguaPilotAI-macOS_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.1/LinguaPilotAI-macOS_V2.1.zip) (Beta)
 
 ---
