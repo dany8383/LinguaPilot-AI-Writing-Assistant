@@ -5,13 +5,37 @@ Support email: simdev24@gmail.com
 
 LinguaPilot AI helps you correct, improve, rewrite, translate, and understand selected text from everyday applications (Microsoft Word, WhatsApp, email, browser forms, notes, messages, etc.). Select text, press your shortcut, and get an improved version with explanations in a popup.
 
-![LinguaPilot AI Interface](1.png)
+## Screenshots
+
+### 🖥️ Main Dashboard
+![LinguaPilot AI Dashboard](6.png)
+*Figure 1: Main application window tracking captured inputs, text corrections, and live assistant activity.*
+
+### 🎓 AI Writing Coach
+![LinguaPilot AI Coach Tab](1.png)
+*Figure 2: Comprehensive writing coach providing detailed explanations for grammar and style choices.*
+
+### 🔄 Side-by-Side Comparison
+![LinguaPilot AI Improved Tab](2.png)
+*Figure 3: Clear split-screen view contrasting original text with the fully enhanced version.*
+
+### 📝 Detailed Revision History
+![LinguaPilot AI Changes Tab](3.png)
+*Figure 4: A precise, bulleted breakdown of every modification made to your text.*
+
+### ⚙️ Assistant Preferences
+![LinguaPilot AI Assistant Settings](4.png)
+*Figure 5: Fine-tuning target languages, custom global shortcuts, and writing tones.*
+
+### 🔑 AI Models & API Keys
+![LinguaPilot AI Models Settings](5.png)
+*Figure 6: Quick configuration for local Ollama models and cloud providers like Claude, Mistral, Gemini, or OpenAI.*
 
 ---
 
 ## 💾 Downloads
 Download the latest versions from the **Releases** section on the right:
-* 🪟 **Windows:** [LinguaPilotAI-Win_V2.3.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.3/LinguaPilotAI-Win_V2.3.zip) (Stable)
+* 🪟 **Windows:** [LinguaPilotAI-Win_V2.4.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.4/LinguaPilotAI-Win_V2.4.zip) (Stable)
 * 💻 **macOS:** [LinguaPilotAI-macOS_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI/releases/download/v2.1/LinguaPilotAI-macOS_V2.1.zip) (Beta)
 
 ---
@@ -19,8 +43,8 @@ Download the latest versions from the **Releases** section on the right:
 ## 🪟 Windows User Guide (Stable)
 
 ### Installation
-1. Download `LinguaPilotAI-Win_V2.3.zip` and extract it.
-2. Run `LinguaPilotAI_Setup_v2.3.exe`.
+1. Download `LinguaPilotAI-Win_V2.4.zip` and extract it.
+2. Run `LinguaPilotAI_Setup_v2.4.exe`.
 3. If Windows SmartScreen appears, click **More info** > **Run anyway**. (The app is 100% safe; this warning occurs because the software is new).
 
 ### Quick Start
