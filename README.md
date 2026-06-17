@@ -1,6 +1,6 @@
 # LinguaPilot AI — User Guide
 
-Official website: https://linguapilot.netlify.app/  
+Official website: https://getlinguapilot.com/  
 Support email: simdev24@gmail.com
 
 LinguaPilot AI helps you correct, improve, rewrite, translate, and understand selected text from everyday applications (Microsoft Word, WhatsApp, email, browser forms, notes, messages, etc.). Select text, press your shortcut, and get an improved version with explanations in a popup.
