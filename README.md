@@ -73,9 +73,11 @@ Download the latest versions from the **Releases** section on the right:
 ## ⚙️ Global Features (Windows & macOS)
 
 ### Provider Recommendations
+
 * **Gemini:** Simple, quick setup via Google AI Studio.
 * **OpenAI:** Best writing quality and professional consistency.
-* **Ollama:** Recommended for local, private AI processing (no cloud tokens).
+* **Ollama:** Recommended for local, private AI processing (no cloud tokens). 
+  * *Model Recommendation:* Ideally, we recommend **Qwen2.5:14b** for the best results. Alternatively, you can use **Qwen2.5:7b** if your PC configuration is a bit older.
 
 ### License Activation
 1. In the app, navigate to the **License** section (or `Settings / API`).
