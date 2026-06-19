@@ -35,7 +35,7 @@ LinguaPilot AI helps you correct, improve, rewrite, translate, and understand se
 
 ## 💾 Downloads
 Download the latest versions from the **Releases** section on the right:
-* 🪟 **Windows:** [LinguaPilotAI-Win_V2.4.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.4/LinguaPilotAI-Win_V2.4.zip) (Stable)
+* 🪟 **Windows:** [LinguaPilotAI-Win_V2.5.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.5/LinguaPilotAI-Win_V2.5.zip) (Stable)
 * 💻 **macOS:** [LinguaPilotAI-macOS_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.1/LinguaPilotAI-macOS_V2.1.zip) (Beta)
 
 ---
@@ -43,8 +43,8 @@ Download the latest versions from the **Releases** section on the right:
 ## 🪟 Windows User Guide (Stable)
 
 ### Installation
-1. Download `LinguaPilotAI-Win_V2.4.zip` and extract it.
-2. Run `LinguaPilotAI_Setup_v2.4.exe`.
+1. Download `LinguaPilotAI-Win_V2.5.zip` and extract it.
+2. Run `LinguaPilotAI_Setup_v2.5.exe`.
 3. If Windows SmartScreen appears, click **More info** > **Run anyway**. (The app is 100% safe; this warning occurs because the software is new).
 
 ### Quick Start
