@@ -8,27 +8,27 @@ LinguaPilot AI helps you correct, improve, rewrite, translate, and understand se
 ## Screenshots
 
 ### 🖥️ Main Dashboard
-![LinguaPilot AI Dashboard](6.png)
+![LinguaPilot AI Dashboard](Main Dashboard.png)
 *Figure 1: Main application window tracking captured inputs, text corrections, and live assistant activity.*
 
 ### 🎓 AI Writing Coach
-![LinguaPilot AI Coach Tab](1.png)
+![LinguaPilot AI Coach Tab](AI Writing Coach.png)
 *Figure 2: Comprehensive writing coach providing detailed explanations for grammar and style choices.*
 
 ### 🔄 Side-by-Side Comparison
-![LinguaPilot AI Improved Tab](2.png)
+![LinguaPilot AI Improved Tab](Side-by-Side Comparison.png)
 *Figure 3: Clear split-screen view contrasting original text with the fully enhanced version.*
 
 ### 📝 Detailed Revision History
-![LinguaPilot AI Changes Tab](3.png)
+![LinguaPilot AI Changes Tab](Detailed Revision History.png)
 *Figure 4: A precise, bulleted breakdown of every modification made to your text.*
 
 ### ⚙️ Assistant Preferences
-![LinguaPilot AI Assistant Settings](4.png)
+![LinguaPilot AI Assistant Settings](Assistant Preferences.png)
 *Figure 5: Fine-tuning target languages, custom global shortcuts, and writing tones.*
 
 ### 🔑 AI Models & API Keys
-![LinguaPilot AI Models Settings](5.png)
+![LinguaPilot AI Models Settings](AI Models & API Keys.png)
 *Figure 6: Quick configuration for local Ollama models and cloud providers like Claude, Mistral, Gemini, or OpenAI.*
 
 ---
