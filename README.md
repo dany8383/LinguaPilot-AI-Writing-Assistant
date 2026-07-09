@@ -56,7 +56,7 @@ Cloud providers such as OpenAI and Gemini remain optional for users who prefer f
 
 ## 💾 Downloads
 
-For the latest version, free trial and license information, visit the official website:
+For the latest version and free trial, visit the official website:
 
 https://getlinguapilot.com/
 
