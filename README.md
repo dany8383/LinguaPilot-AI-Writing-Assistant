@@ -1,9 +1,30 @@
-# LinguaPilot AI — User Guide
+# LinguaPilot AI — Windows AI Writing Coach
 
 Official website: https://getlinguapilot.com/  
+Free trial: https://getlinguapilot.com/  
 Support email: simdev24@gmail.com
 
-LinguaPilot AI helps you correct, improve, rewrite, translate, and understand selected text from everyday applications (Microsoft Word, WhatsApp, email, browser forms, notes, messages, etc.). Select text, press your shortcut, and get an improved version with explanations in a popup.
+LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, rewrite, and understand selected text from everyday applications such as Microsoft Word, Outlook, WhatsApp Desktop, browser forms, notes, and messages.
+
+Select text, press your shortcut, and get an improved version with explanations in a popup. LinguaPilot is designed to help you learn from AI instead of becoming dependent on copy-paste rewriting.
+
+## Learn more
+
+- [AI Writing Coach for Windows](https://getlinguapilot.com/ai-writing-coach-windows/)
+- [Ollama Writing Assistant](https://getlinguapilot.com/ollama-writing-assistant/)
+- [AI Email Writing Assistant](https://getlinguapilot.com/ai-email-writing-assistant/)
+
+## Why LinguaPilot AI is different
+
+Most AI writing tools rewrite your text and stop there. LinguaPilot AI focuses on writing feedback and explanations, so you can understand why a sentence was improved.
+
+It is built for people who want AI assistance without losing their own writing skills.
+
+## Local AI with Ollama
+
+LinguaPilot AI can run with Ollama for local and private writing feedback. In local mode, your selected text is processed on your own machine instead of being sent to a cloud provider.
+
+Cloud providers such as OpenAI and Gemini remain optional for users who prefer faster online responses.
 
 ## Screenshots
 
@@ -34,7 +55,13 @@ LinguaPilot AI helps you correct, improve, rewrite, translate, and understand se
 ---
 
 ## 💾 Downloads
-Download the latest versions from the **Releases** section on the right:
+
+For the latest version, free trial and license information, visit the official website:
+
+https://getlinguapilot.com/
+
+GitHub releases are kept for version history and direct downloads:
+
 * 🪟 **Windows:** [LinguaPilotAI-Win_V2.6.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.6/LinguaPilotAI-Win_V2.6.zip) (Stable)
 * 💻 **macOS:** [LinguaPilotAI-macOS_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.1/LinguaPilotAI-macOS_V2.1.zip) (Beta)
 
@@ -45,7 +72,7 @@ Download the latest versions from the **Releases** section on the right:
 ### Installation
 1. Download `LinguaPilotAI-Win_V2.6.zip` and extract it.
 2. Run `LinguaPilotAI_Setup_v2.6.exe`.
-3. If Windows SmartScreen appears, click **More info** > **Run anyway**. (The app is 100% safe; this warning occurs because the software is new).
+3. If Windows SmartScreen appears, click **More info** > **Run anyway**. This warning can appear for new or unsigned apps. Always download LinguaPilot AI from the official website or GitHub releases.
 
 ### Quick Start
 1. Launch the app and open **Settings**.
