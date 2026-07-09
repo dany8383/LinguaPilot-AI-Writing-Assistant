@@ -1,7 +1,7 @@
 # LinguaPilot AI — Windows AI Writing Coach
 
 Official website: https://getlinguapilot.com/  
-Free trial: https://getlinguapilot.com/  
+Free trial available from the official website: https://getlinguapilot.com/  
 Support email: simdev24@gmail.com
 
 LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, rewrite, and understand selected text from everyday applications such as Microsoft Word, Outlook, WhatsApp Desktop, browser forms, notes, and messages.
