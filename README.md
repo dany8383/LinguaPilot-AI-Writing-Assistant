@@ -70,8 +70,8 @@ GitHub releases are kept for version history and direct downloads:
 ## 🪟 Windows User Guide (Stable)
 
 ### Installation
-1. Download `LinguaPilotAI-Win_V2.6.zip` and extract it.
-2. Run `LinguaPilotAI_Setup_v2.6.exe`.
+1. Download `LinguaPilotAI-Win_V2.7.zip` and extract it.
+2. Run `LinguaPilotAI_Setup_v2.7.exe`.
 3. If Windows SmartScreen appears, click **More info** > **Run anyway**. This warning can appear for new or unsigned apps. Always download LinguaPilot AI from the official website or GitHub releases.
 
 ### Quick Start
