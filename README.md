@@ -62,7 +62,7 @@ https://getlinguapilot.com/
 
 GitHub releases are kept for version history and direct downloads:
 
-* 🪟 **Windows:** [LinguaPilotAI-Win_V2.6.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.6/LinguaPilotAI-Win_V2.6.zip) (Stable)
+* 🪟 **Windows:** [LinguaPilotAI-Win_V2.7.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.7/LinguaPilotAI-Win_V2.7.zip) (Stable)
 * 💻 **macOS:** [LinguaPilotAI-macOS_V2.1.zip](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.1/LinguaPilotAI-macOS_V2.1.zip) (Beta)
 
 ---
