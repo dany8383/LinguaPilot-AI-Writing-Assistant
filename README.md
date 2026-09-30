@@ -83,6 +83,18 @@ With Ollama, selected text can be processed directly on your own computer instea
 
 This can be useful for private drafts, internal documents, emails, notes, and other writing where local processing is preferred.
 
+### Model compatibility
+
+LinguaPilot AI is designed to work with compatible text-generation models available through the selected provider.
+
+When supported by the provider, LinguaPilot can discover available models automatically. You can refresh the model list, select the model you want to use, and test the connection directly from the application.
+
+If a compatible model is not shown in the detected list, LinguaPilot also allows manual model entry.
+
+For Ollama, LinguaPilot uses models installed locally on your computer. Current Qwen3 models such as `qwen3:4b`, `qwen3:8b`, and `qwen3:14b` are suitable options depending on your hardware.
+
+Model availability and API access may change over time depending on the provider.
+
 ---
 
 ## Core features
