@@ -6,7 +6,7 @@ LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, re
 
 Select text, press your shortcut, and LinguaPilot opens a coaching panel with corrected and improved versions of your writing, along with explanations of what changed and why.
 
-**Current version: v2.8.1**
+**Current version: v2.8.2**
 
 - Official website: https://getlinguapilot.com/
 - Free 14-day trial: https://getlinguapilot.com/
@@ -31,34 +31,46 @@ The shortcut can also be changed in Settings.
 
 ---
 
-## What's new in v2.8.1?
+## What's new in v2.8.2?
 
-Version 2.8.1 focuses on making the first-time experience easier and guiding new users from installation to their first successful correction.
+Version 2.8.2 introduces a simpler way to start using LinguaPilot AI with automatic Local AI setup on Windows.
 
-### Improved first-time setup
+### Automatic Local AI setup
 
-- Redesigned and enlarged onboarding window
-- Clear step-by-step provider setup
-- Direct access to provider setup resources
-- Guided API key and model configuration
-- Clear connection-testing workflow
-- Better first-model guidance
-- Improved first-correction instructions
-- Updated built-in setup tutorials
+LinguaPilot can now prepare the required local AI environment automatically.
 
-### Guided provider configuration
+- No API key is required
+- Existing compatible local components are detected and reused
+- Missing components are downloaded and installed automatically
+- Installation and download progress are displayed directly in LinguaPilot
+- The local AI connection is checked and prepared automatically
+- After setup, writing can be processed locally on your computer
 
-The setup flow now helps users through:
+For users who want the easiest setup, **Automatic setup** is the recommended option.
 
-1. Choose an AI provider
-2. Get an API key or install Ollama
-3. Save the configuration
-4. Refresh and select an available model
-5. Test the connection
-6. Select text in any Windows application
-7. Press `Ctrl + Alt + C`
+### Manual / Advanced setup
 
-Existing provider configurations remain supported.
+Manual configuration remains available for users who prefer to use their own AI provider or local model.
+
+Supported providers include:
+
+- Google Gemini
+- Mistral AI
+- OpenAI
+- Anthropic Claude
+- Ollama
+
+Direct links are available inside LinguaPilot to help users access the setup pages for supported providers.
+
+### Easier first use
+
+Once setup is complete:
+
+1. Select text in any Windows application.
+2. Press `Ctrl + Alt + C`.
+3. Review the LinguaPilot suggestion.
+
+The keyboard shortcut can be changed at any time in Settings.
 
 ---
 
@@ -68,18 +80,24 @@ LinguaPilot AI supports both cloud AI providers and local AI.
 
 ### Cloud providers
 
-- OpenAI
 - Google Gemini
-- Anthropic Claude
 - Mistral AI
+- OpenAI
+- Anthropic Claude
 
 When a cloud provider is selected, the text you submit for processing is sent to that provider according to its own service and privacy terms.
 
 ### Local AI with Ollama
 
-LinguaPilot can also connect to [Ollama](https://ollama.com/) for local AI processing.
+LinguaPilot supports local AI processing through Ollama.
 
-With Ollama, selected text can be processed directly on your own computer instead of being sent to a cloud AI provider.
+With Local AI, selected text can be processed directly on your own computer instead of being sent to a cloud AI provider.
+
+Version 2.8.2 includes an **Automatic setup** option that checks the computer, reuses compatible components that are already available, and installs only what is missing.
+
+After the initial setup, Local AI can process writing directly on your computer without requiring a cloud API key.
+
+Advanced users can also configure Ollama and local models manually.
 
 This can be useful for private drafts, internal documents, emails, notes, and other writing where local processing is preferred.
 
@@ -91,7 +109,7 @@ When supported by the provider, LinguaPilot can discover available models automa
 
 If a compatible model is not shown in the detected list, LinguaPilot also allows manual model entry.
 
-For Ollama, LinguaPilot uses models installed locally on your computer. Current Qwen3 models such as `qwen3:4b`, `qwen3:8b`, and `qwen3:14b` are suitable options depending on your hardware.
+For Ollama, LinguaPilot can use compatible models installed locally on your computer.
 
 Model availability and API access may change over time depending on the provider.
 
@@ -134,7 +152,7 @@ LinguaPilot can work with multilingual text and provide writing feedback for use
 
 ### Local or cloud processing
 
-Choose local processing through Ollama or connect one of the supported cloud AI providers.
+Choose automatic or manually configured local processing through Ollama, or connect one of the supported cloud AI providers.
 
 ### Writing history
 
@@ -180,9 +198,9 @@ https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 
 ### Current release
 
-**LinguaPilot AI v2.8.1 for Windows**
+**LinguaPilot AI v2.8.2 for Windows**
 
-https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.1
+https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.2
 
 LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
@@ -190,55 +208,67 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
 ## Windows installation
 
-1. Download the latest LinguaPilot AI package.
-2. Extract the ZIP archive if necessary.
-3. Run `LinguaPilotAI_Setup_v2.8.1.exe`.
-4. Follow the installation instructions.
-5. Launch LinguaPilot AI.
+1. Download `LinguaPilotAI_Setup_v2.8.2.exe`.
+2. Run the installer.
+3. Follow the installation wizard and click **Next** to continue.
+4. Launch LinguaPilot AI.
 
-If Windows SmartScreen appears, click **More info**, then **Run anyway** to continue the installation.
+If Microsoft Defender SmartScreen displays **Windows protected your PC**, make sure the installer was downloaded from the official LinguaPilot website or the official LinguaPilot GitHub repository.
+
+Click **More info**, then **Run anyway** to start the installer.
 
 ---
 
 ## Quick start
 
-### 1. Choose your AI provider
+### Recommended: Automatic Local AI setup
 
-Open LinguaPilot and select the provider you want to use:
+The easiest way to start using LinguaPilot AI does not require an API key.
 
-- Google Gemini
-- OpenAI
-- Anthropic Claude
-- Mistral AI
-- Ollama for local AI
-
-### 2. Configure the provider
-
-For a cloud provider, enter the required API key.
-
-For local processing, install and configure Ollama.
-
-### 3. Save your configuration
-
-Save the API key or local configuration from the Models & Keys settings.
-
-### 4. Refresh and choose a model
-
-Refresh the available model list and select the model you want LinguaPilot to use.
-
-### 5. Test the connection
-
-Use the built-in connection test to confirm that LinguaPilot can communicate with the selected provider.
-
-### 6. Make your first correction
-
-Open any Windows application containing editable or selectable text.
-
-Select a sentence or paragraph and press:
+1. Install and launch LinguaPilot AI.
+2. Choose **Automatic setup**.
+3. LinguaPilot checks your computer and prepares the required Local AI components automatically.
+4. Wait until LinguaPilot confirms that Local AI is ready.
+5. Select text in Microsoft Word, Outlook, WhatsApp, Notepad, a browser, or another Windows application.
+6. Press:
 
 `Ctrl + Alt + C`
 
-Review the writing feedback and choose the result that best matches your intention.
+LinguaPilot opens the writing coach with your result.
+
+The keyboard shortcut can be changed later in **Settings**.
+
+The initial Local AI setup requires an Internet connection if required components need to be downloaded.
+
+After setup, Local AI can process writing directly on your computer.
+
+### Manual / Advanced setup
+
+If you prefer to configure your own AI provider, choose **Manual / Advanced setup**.
+
+Supported cloud providers include:
+
+1. Google Gemini
+2. Mistral AI
+3. OpenAI
+4. Anthropic Claude
+
+You can also configure Ollama manually.
+
+LinguaPilot provides direct setup links from inside the application.
+
+For a cloud provider:
+
+1. Get your API key from the provider.
+2. Enter the API key in LinguaPilot.
+3. Save the key securely.
+4. Refresh the available models.
+5. Choose a model.
+6. Test the connection.
+
+Once the connection is ready, select text in any Windows application and press:
+
+`Ctrl + Alt + C`
 
 ---
 
@@ -341,13 +371,13 @@ Automatic startup can be enabled from Settings if you want LinguaPilot to be ava
 
 LinguaPilot gives you control over where AI processing takes place.
 
-### Ollama
+### Local AI
 
-When Ollama is selected, AI processing can run locally on your Windows computer.
+When Local AI is selected, AI processing can run locally on your Windows computer.
 
 ### Cloud providers
 
-When OpenAI, Google Gemini, Anthropic Claude, or Mistral AI is selected, the text submitted for a request is processed by that provider according to its own terms and privacy policy.
+When Google Gemini, Mistral AI, OpenAI, or Anthropic Claude is selected, the text submitted for a request is processed by that provider according to its own terms and privacy policy.
 
 Cloud AI is optional.
 
