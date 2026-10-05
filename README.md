@@ -208,10 +208,11 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
 ## Windows installation
 
-1. Download `LinguaPilotAI_Setup_v2.8.2.exe`.
-2. Run the installer.
-3. Follow the installation wizard and click **Next** to continue.
-4. Launch LinguaPilot AI.
+1. Download `LinguaPilotAI_Setup_v2.8.2.zip`.
+2. Extract the ZIP archive.
+3. Run `LinguaPilotAI_Setup_v2.8.2.exe`.
+4. Follow the installation wizard and click **Next** to continue.
+5. Launch LinguaPilot AI.
 
 If Microsoft Defender SmartScreen displays **Windows protected your PC**, make sure the installer was downloaded from the official LinguaPilot website or the official LinguaPilot GitHub repository.
 
