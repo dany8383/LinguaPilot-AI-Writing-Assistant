@@ -6,7 +6,7 @@ LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, re
 
 Select text, press your shortcut, and LinguaPilot opens a coaching panel with corrected and improved versions of your writing, along with explanations of what changed and why.
 
-**Current version: v2.8.2**
+**Current version: v2.8.3**
 
 - Official website: https://getlinguapilot.com/
 - Free 14-day trial: https://getlinguapilot.com/
@@ -31,7 +31,33 @@ The shortcut can also be changed in Settings.
 
 ---
 
-## What's new in v2.8.2?
+## What's new in v2.8.3?
+
+Version 2.8.3 focuses on reliability, a smoother first-time experience, and a more consistent Windows interface.
+
+### Installation and reliability
+- Improved handling of interrupted downloads and installation errors.
+- Better recovery options when automatic Local AI setup cannot complete.
+- Additional fallback sources for the Ollama installer.
+- Clearer feedback during installation and model preparation.
+- Safer saving of application settings.
+
+### User experience
+- More consistent light and dark themes.
+- Compact notifications and clearer status messages.
+- Improved behavior of secondary windows.
+- English as the default interface language, while multilingual writing support remains available.
+- Easier access to installation assistance.
+
+All existing writing modes, local and cloud AI providers, and the Windows shortcut remain available.
+
+[View the v2.8.3 release](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.3)
+
+[Illustrated installation guide](https://getlinguapilot.com/support/local-ai-setup/)
+
+---
+
+## Previous update: v2.8.2
 
 Version 2.8.2 introduces a simpler way to start using LinguaPilot AI with automatic Local AI setup on Windows.
 
@@ -198,9 +224,9 @@ https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 
 ### Current release
 
-**LinguaPilot AI v2.8.2 for Windows**
+**LinguaPilot AI v2.8.3 for Windows**
 
-https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.2
+https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.3
 
 LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
@@ -208,9 +234,9 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
 ## Windows installation
 
-1. Download `LinguaPilotAI_Setup_v2.8.2.zip`.
+1. Download `LinguaPilotAI_Setup_v2.8.3.zip`.
 2. Extract the ZIP archive.
-3. Run `LinguaPilotAI_Setup_v2.8.2.exe`.
+3. Run `LinguaPilotAI_Setup_v2.8.3.exe`.
 4. Follow the installation wizard and click **Next** to continue.
 5. Launch LinguaPilot AI.
 
@@ -288,6 +314,7 @@ The LinguaPilot website contains practical guides, product documentation, local 
 - [LinguaPilot Guides](https://getlinguapilot.com/guides/)
 - [How to Use AI as a Writing Coach Without Losing Your Writing Skills](https://getlinguapilot.com/guides/how-to-use-ai-as-a-writing-coach/)
 - [How to Use Ollama as a Local AI Writing Assistant on Windows](https://getlinguapilot.com/guides/ollama-writing-assistant-windows/)
+- [LinguaPilot Local AI Setup – Illustrated Guide](https://getlinguapilot.com/support/local-ai-setup/)
 - [Local vs Cloud AI Writing Assistants](https://getlinguapilot.com/guides/local-vs-cloud-ai-writing-assistants/)
 
 ### Research and benchmarks
@@ -347,14 +374,23 @@ https://getlinguapilot.com/free-tools/pronunciation-coach/
 
 ## License activation
 
-After purchasing a LinguaPilot AI license:
+Your LinguaPilot AI purchase includes a **lifetime license for one Windows PC**.
 
-1. Open the **License** section in LinguaPilot AI.
-2. Copy your **Machine ID**.
-3. Send your purchase email and Machine ID to `simdev24@gmail.com`.
-4. Enter the activation key you receive.
+Activation is handled online through the LinguaPilot activation page.
 
-Please allow up to 24 hours for manual activation when required.
+### How to activate LinguaPilot AI
+
+1. Download and extract the ZIP file provided with your Lemon Squeezy purchase.
+2. Install and launch LinguaPilot AI.
+3. Open the **License** screen and copy your **Machine ID**.
+4. Visit the [LinguaPilot Activation Page](https://linguapilot-activation.netlify.app/activate.html).
+5. Enter your **Lemon Squeezy license key**, **purchase email**, and **Machine ID**.
+6. Click **Generate My License**, then **Copy License**.
+7. Return to LinguaPilot AI and paste the generated activation license into the License screen to complete activation.
+
+**No manual activation request is required.** You can generate your activation license directly through the online activation page.
+
+For assistance, contact **simdev24@gmail.com**.
 
 ---
 
