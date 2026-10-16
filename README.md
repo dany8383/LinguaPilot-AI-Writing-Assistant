@@ -11,7 +11,7 @@ Select text, press your shortcut, and LinguaPilot opens a coaching panel with co
 - Official website: https://getlinguapilot.com/
 - Free 14-day trial: https://getlinguapilot.com/
 - GitHub releases: https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
-- Support: simdev24@gmail.com
+- Support: contact@getlinguapilot.com
 
 ---
 
@@ -390,7 +390,7 @@ Activation is handled online through the LinguaPilot activation page.
 
 **No manual activation request is required.** You can generate your activation license directly through the online activation page.
 
-For assistance, contact **simdev24@gmail.com**.
+For assistance, contact **contact@getlinguapilot.com**.
 
 ---
 
@@ -424,7 +424,7 @@ Cloud AI is optional.
 
 If you experience a problem, contact:
 
-**simdev24@gmail.com**
+**contact@getlinguapilot.com**
 
 When contacting support, please include:
 
