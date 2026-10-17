@@ -4,7 +4,7 @@
 
 LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, rewrite, and understand selected text directly from the applications you already use.
 
-Select text, press your shortcut, and LinguaPilot opens a coaching panel with corrected and improved versions of your writing, along with explanations of what changed and why.
+Select text, press your shortcut, and LinguaPilot opens a writing assistant panel with corrected or improved versions of your text, along with optional explanations to help you understand what changed and why.
 
 **Current version: v2.8.4**
 
@@ -61,7 +61,7 @@ The existing writing modes, Writing Coach features, and Windows shortcut remain 
 
 ---
 
-## What's new in v2.8.3?
+## Previous update: v2.8.3
 
 Version 2.8.3 focuses on reliability, a smoother first-time experience, and a more consistent Windows interface.
 
@@ -87,7 +87,7 @@ All existing writing modes, local and cloud AI providers, and the Windows shortc
 
 ---
 
-## Previous update: v2.8.2
+## Earlier update: v2.8.2
 
 Version 2.8.2 introduces a simpler way to start using LinguaPilot AI with automatic Local AI setup on Windows.
 
