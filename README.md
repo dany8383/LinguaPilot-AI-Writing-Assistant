@@ -6,7 +6,7 @@ LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, re
 
 Select text, press your shortcut, and LinguaPilot opens a coaching panel with corrected and improved versions of your writing, along with explanations of what changed and why.
 
-**Current version: v2.8.3**
+**Current version: v2.8.4**
 
 - Official website: https://getlinguapilot.com/
 - Free 14-day trial: https://getlinguapilot.com/
@@ -28,6 +28,36 @@ Press the global shortcut:
 LinguaPilot then lets you review the correction, improvement, and writing feedback without leaving your current workflow.
 
 The shortcut can also be changed in Settings.
+
+---
+
+## What's new in v2.8.4?
+
+LinguaPilot AI v2.8.4 brings more control over AI processing, easier Ollama model discovery, and a smoother writing experience.
+
+### Privacy Guard — Your writing, your choice
+
+- **Cloud processing confirmation:** Stay informed before your writing is sent to a cloud or unverified AI destination.
+- **Sensitive Work Mode:** Optionally keep writing requests restricted to verified local processing.
+- **Clear processing indicators:** See whether your selected model uses Local, Cloud, or Unverified processing.
+- **Shortcut protection:** Privacy Guard also works when using `Ctrl + Alt + C`.
+
+### Smarter Ollama model discovery
+
+- Search Ollama model families and explore available variants.
+- Check exact model identifiers, even when they are not listed in search results.
+- Access recommended writing models or configure your own.
+- Install additional models with confirmation before downloading.
+
+### A smoother start
+
+- Streamlined setup for new users.
+- Automatic Local AI setup without an API key.
+- Manual / Advanced setup for users who prefer their own models or cloud providers.
+
+The existing writing modes, Writing Coach features, and Windows shortcut remain available.
+
+[Explore the v2.8.4 release](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.4)
 
 ---
 
@@ -224,9 +254,9 @@ https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 
 ### Current release
 
-**LinguaPilot AI v2.8.3 for Windows**
+**LinguaPilot AI v2.8.4 for Windows**
 
-https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.3
+https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.4
 
 LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
@@ -234,9 +264,9 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
 ## Windows installation
 
-1. Download `LinguaPilotAI_Setup_v2.8.3.zip`.
+1. Download `LinguaPilotAI_Setup_v2.8.4.zip`.
 2. Extract the ZIP archive.
-3. Run `LinguaPilotAI_Setup_v2.8.3.exe`.
+3. Run `LinguaPilotAI_Setup_v2.8.4.exe`.
 4. Follow the installation wizard and click **Next** to continue.
 5. Launch LinguaPilot AI.
 
@@ -404,19 +434,33 @@ Automatic startup can be enabled from Settings if you want LinguaPilot to be ava
 
 ---
 
-## Privacy
+## Privacy and Processing Control
 
-LinguaPilot gives you control over where AI processing takes place.
+LinguaPilot AI gives you control over where your writing is processed.
 
-### Local AI
+### Verified Local AI
 
-When Local AI is selected, AI processing can run locally on your Windows computer.
+With a verified local Ollama model, writing requests are processed on your Windows computer, without sending the selected text to a cloud AI provider.
 
-### Cloud providers
+### Privacy Guard
 
-When Google Gemini, Mistral AI, OpenAI, or Anthropic Claude is selected, the text submitted for a request is processed by that provider according to its own terms and privacy policy.
+Privacy Guard helps you stay informed when cloud or unverified processing is selected. It provides confirmation before sending writing requests when required.
 
-Cloud AI is optional.
+The application displays clear Local, Cloud, or Unverified processing indicators.
+
+### Sensitive Work Mode
+
+Enable **Sensitive Work Mode** in Settings to restrict writing requests to verified local processing.
+
+When enabled, writing requests to cloud or unverified destinations are blocked until the protection is disabled.
+
+### Cloud AI
+
+Cloud processing remains optional. When a supported cloud provider is used, submitted text is processed according to that provider's terms and privacy policy.
+
+Some Ollama models and remote configurations may also use external processing. Privacy Guard takes the processing destination into account.
+
+For more information, visit our [Privacy Policy](https://getlinguapilot.com/privacy/).
 
 ---
 
