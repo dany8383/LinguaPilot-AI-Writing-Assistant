@@ -1,15 +1,18 @@
 # LinguaPilot AI - Windows AI Writing Coach
 
-**Write better. Understand why. Stay in your workflow.**
+**Write better. Understand why. Learn from your own mistakes.**
 
 LinguaPilot AI is a Windows AI writing coach that helps you correct, improve, rewrite, and understand selected text directly from the applications you already use.
 
+Turn your own writing mistakes into personalized AI exercises and practise the grammar, verb forms, and spelling that matter to you.
+
 Select text, press your shortcut, and LinguaPilot opens a writing assistant panel with corrected or improved versions of your text, along with optional explanations to help you understand what changed and why.
 
-**Current version: v2.8.4**
+**Current version: v2.8.5**
 
 - Official website: https://getlinguapilot.com/
 - Free 14-day trial: https://getlinguapilot.com/
+- Learn from your writing mistakes: https://getlinguapilot.com/learn-from-my-mistakes/
 - GitHub releases: https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 - Support: contact@getlinguapilot.com
 
@@ -31,7 +34,44 @@ The shortcut can also be changed in Settings.
 
 ---
 
-## What's new in v2.8.4?
+## What's new in v2.8.5?
+
+### Learn from My Mistakes — Your writing becomes your next lesson
+
+LinguaPilot AI introduces personalized learning exercises based on the mistakes you make in everyday writing.
+
+- Practise grammar, verb forms, and spelling using your own writing as the starting point.
+- Understand the rules behind your corrections and apply them in new contexts.
+- Work through interactive exercises, get hints, reveal answers, and receive explanatory feedback.
+- Learn at your own pace, using your emails, messages, and documents.
+
+If no genuine language mistakes suitable for practice are identified, exercises are not needed.
+
+### How it works
+
+1. Enable writing History in Settings if it is not already enabled.
+2. Correct or improve your writing with LinguaPilot AI as usual.
+3. Open History and select a saved writing session.
+4. Choose **Learn from My Mistakes**.
+5. Select a configured cloud AI provider and model, then create your exercises.
+
+Personalized exercises require an internet connection, a configured API key, and a compatible cloud model from OpenAI, Google Gemini, Anthropic Claude, or Mistral AI. Provider API charges may apply.
+
+Your selected writing is sent to the chosen cloud provider only after your explicit permission. You can continue to use local AI for everyday writing assistance independently of the cloud learning feature.
+
+### Improved user experience
+
+- Resizable interface panels for a more comfortable writing and learning experience.
+- Convenient access to personalized exercises from History.
+- Clear guidance on enabling writing History for personalized practice.
+
+[Discover Learn from My Mistakes](https://getlinguapilot.com/learn-from-my-mistakes/)
+
+[Explore the v2.8.5 release](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.5)
+
+---
+
+## Previous update: v2.8.4
 
 LinguaPilot AI v2.8.4 brings more control over AI processing, easier Ollama model discovery, and a smoother writing experience.
 
@@ -66,6 +106,7 @@ The existing writing modes, Writing Coach features, and Windows shortcut remain 
 Version 2.8.3 focuses on reliability, a smoother first-time experience, and a more consistent Windows interface.
 
 ### Installation and reliability
+
 - Improved handling of interrupted downloads and installation errors.
 - Better recovery options when automatic Local AI setup cannot complete.
 - Additional fallback sources for the Ollama installer.
@@ -73,6 +114,7 @@ Version 2.8.3 focuses on reliability, a smoother first-time experience, and a mo
 - Safer saving of application settings.
 
 ### User experience
+
 - More consistent light and dark themes.
 - Compact notifications and clearer status messages.
 - Improved behavior of secondary windows.
@@ -212,7 +254,15 @@ Choose automatic or manually configured local processing through Ollama, or conn
 
 ### Writing history
 
-Keep a local history of writing sessions when you want to review previous corrections and improvements.
+Keep an optional local history of writing sessions when you want to review previous corrections and improvements. You can enable or disable History in Settings.
+
+### Learn from My Mistakes
+
+Turn saved writing mistakes into personalized grammar, verb form, and spelling exercises. Practise in new contexts and receive explanations and feedback.
+
+This optional feature is available from History with a compatible cloud AI provider and your explicit permission.
+
+[Learn more about personalized writing exercises](https://getlinguapilot.com/learn-from-my-mistakes/)
 
 ### Windows system tray
 
@@ -221,6 +271,12 @@ LinguaPilot can remain available from the Windows system tray while you work.
 ---
 
 ## Screenshots
+
+### Learn from My Mistakes — Personalized AI Exercises
+
+![LinguaPilot AI personalized grammar and writing exercises based on your own mistakes](Learn%20from%20My%20Mistakes.png)
+
+*Turn your writing mistakes into interactive learning exercises with explanations, hints, and feedback.*
 
 ### AI Writing Coach
 
@@ -254,9 +310,11 @@ https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 
 ### Current release
 
-**LinguaPilot AI v2.8.4 for Windows**
+**LinguaPilot AI v2.8.5 for Windows**
 
-https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.4
+[Download LinguaPilot AI v2.8.5 for Windows (ZIP)](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/download/v2.8.5/LinguaPilotAI_Setup_v2.8.5.zip)
+
+[View release notes](https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases/tag/v2.8.5)
 
 LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
@@ -264,15 +322,13 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 
 ## Windows installation
 
-1. Download `LinguaPilotAI_Setup_v2.8.4.zip`.
+1. Download `LinguaPilotAI_Setup_v2.8.5.zip`.
 2. Extract the ZIP archive.
-3. Run `LinguaPilotAI_Setup_v2.8.4.exe`.
+3. Run the LinguaPilot AI Windows installer inside the extracted folder.
 4. Follow the installation wizard and click **Next** to continue.
 5. Launch LinguaPilot AI.
 
-If Microsoft Defender SmartScreen displays **Windows protected your PC**, make sure the installer was downloaded from the official LinguaPilot website or the official LinguaPilot GitHub repository.
-
-Click **More info**, then **Run anyway** to start the installer.
+If Microsoft Defender SmartScreen displays **Windows protected your PC**, Click **More info**, then **Run anyway** to start the installer.
 
 ---
 
@@ -298,6 +354,14 @@ The keyboard shortcut can be changed later in **Settings**.
 The initial Local AI setup requires an Internet connection if required components need to be downloaded.
 
 After setup, Local AI can process writing directly on your computer.
+
+### Start learning from your own mistakes
+
+Open History after correcting your writing, select a saved session, and choose **Learn from My Mistakes**.
+
+Select a configured cloud AI model and create your personalized exercises. History must be enabled, and cloud processing requires your permission.
+
+[See how personalized exercises work](https://getlinguapilot.com/learn-from-my-mistakes/)
 
 ### Manual / Advanced setup
 
@@ -335,6 +399,7 @@ The LinguaPilot website contains practical guides, product documentation, local 
 
 ### Product and use cases
 
+- [Learn from Your Writing Mistakes with Personalized AI Exercises](https://getlinguapilot.com/learn-from-my-mistakes/)
 - [AI Writing Coach for Windows](https://getlinguapilot.com/ai-writing-coach-windows/)
 - [Ollama Writing Assistant for Windows](https://getlinguapilot.com/ollama-writing-assistant/)
 - [AI Email Writing Assistant](https://getlinguapilot.com/ai-email-writing-assistant/)
@@ -460,6 +525,14 @@ Cloud processing remains optional. When a supported cloud provider is used, subm
 
 Some Ollama models and remote configurations may also use external processing. Privacy Guard takes the processing destination into account.
 
+### Writing History and personalized learning
+
+Writing History is optional and stored locally on your computer.
+
+When you choose **Learn from My Mistakes**, your selected writing session is sent to your chosen cloud AI provider only after your explicit permission. Short writing answers may also be sent to that provider when AI feedback is required.
+
+Using personalized exercises is optional. Local AI writing assistance remains available without using the cloud learning feature.
+
 For more information, visit our [Privacy Policy](https://getlinguapilot.com/privacy/).
 
 ---
@@ -490,6 +563,9 @@ https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant
 **Releases**  
 https://github.com/dany8383/LinguaPilot-AI-Writing-Assistant/releases
 
+**Learn from My Mistakes**  
+https://getlinguapilot.com/learn-from-my-mistakes/
+
 **Guides**  
 https://getlinguapilot.com/guides/
 
@@ -503,4 +579,4 @@ https://getlinguapilot.com/free-tools/
 
 **LinguaPilot AI**
 
-AI writing assistance designed to help you improve the text while understanding the changes.
+AI writing assistance designed to help you improve the text while understanding the changes — and learn from your own writing mistakes.
