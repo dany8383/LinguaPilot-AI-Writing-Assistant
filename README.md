@@ -328,7 +328,7 @@ LinguaPilot AI is designed for **Windows 10 and Windows 11**.
 4. Follow the installation wizard and click **Next** to continue.
 5. Launch LinguaPilot AI.
 
-If Microsoft Defender SmartScreen displays **Windows protected your PC**, Click **More info**, then **Run anyway** to start the installer.
+If Microsoft Defender SmartScreen displays **Windows protected your PC**, verify that you downloaded LinguaPilot from an official source, then click **More info** and **Run anyway** to start the installer.
 
 ---
 
